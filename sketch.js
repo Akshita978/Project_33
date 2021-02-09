@@ -7,7 +7,7 @@ var plinkos = [];
 var divisions = [];
 
 var divisionHeight = 300;
-var score = -100;
+var score = 0;
 var turn = 0;
 gameState = "start";
 
